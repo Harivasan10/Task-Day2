@@ -1,0 +1,27 @@
+# Introduction
+- Explain what are document and window objects and why they are important for web development.
+- Give some examples of how to access and use document and window objects in JavaScript code.
+- State the main purpose of the blog, which is to compare and contrast document and window objects.
+
+# Document Object
+- Describe the document object as the representation of the HTML document loaded in the browser window.
+- Explain that the document object is a property of the window object and can be accessed with window.document or just document.
+- List some of the common properties and methods of the document object, such as document.body, document.title, document.getElementById(), document.createElement(), etc.
+- Provide some code snippets to demonstrate how to use the document object to manipulate the HTML elements and content.
+
+# Window Object
+- Describe the window object as the global object that represents the browser window or tab.
+- Explain that the window object contains many properties and methods that are related to the browser environment, such as window.location, window.history, window.alert(), window.open(), etc.
+- List some of the common properties and methods of the window object, such as window.innerWidth, window.innerHeight, window.addEventListener(), window.setTimeout(), etc.
+- Provide some code snippets to demonstrate how to use the window object to interact with the browser events and functions.
+
+# Difference between Document and Window Objects
+- Summarize the main differences between document and window objects in terms of their roles, scopes, and functionalities.
+- Highlight some of the scenarios where document and window objects are used differently or interchangeably.
+- Provide some tips and best practices on how to use document and window objects effectively and efficiently.
+
+# Conclusion
+- Recap the main points of the blog and restate the main purpose.
+- Invite the readers to share their feedback, questions, or suggestions on the topic.
+- Thank the readers for their time and attention.
+
